@@ -625,9 +625,9 @@ twikoo:
 giscus:
   enable: true
   repo: c123319/c123319.github.io
-  repo_id: MDEwOlJlcG9zaXRvcnkzODcxNTU1NzE=
+  repo_id: R_kgDORD7vBg
   category: Comments
-  category_id: DIC_kwDOFxOGc84C1li3
+  category_id: DIC_kwDORD7vBs4C1lql
   mapping: pathname
   light_theme: light
   dark_theme: dark
