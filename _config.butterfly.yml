@@ -21,6 +21,7 @@ menu:
   归档: /archives/ || fas fa-archive
   标签: /tags/ || fas fa-tags
   分类: /categories/ || fas fa-folder-open
+  AI / Agent: /categories/ai-agent/ || fas fa-robot
   其他||fas fa-list:
     Music: /other/ || fas fa-music
     Movie: /other/ || fas fa-video

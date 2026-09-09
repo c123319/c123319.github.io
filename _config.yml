@@ -68,6 +68,7 @@ index_generator:
 # Category & Tag
 default_category: uncategorized
 category_map:
+  "AI / Agent": ai-agent
 tag_map:
 
 # Metadata elements
